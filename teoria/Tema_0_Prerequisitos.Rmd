@@ -1,6 +1,6 @@
 ---
 title: "Tema 0 - Prerrequisito: Teoría de conjuntos y combinatoria"
-author: "Ricardo Alberich , Juan Gabriel Gomila y  Arnau Mir"
+author: "Ricardo Alberich , Juan Gabriel Gomila y Arnau Mir"
 date: 
 output: 
   ioslides_presentation: 
